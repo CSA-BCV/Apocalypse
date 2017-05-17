@@ -1,1 +1,0 @@
-bry orc beserker 9 20 {'health 1 potion':2} 2
